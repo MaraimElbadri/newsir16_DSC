@@ -7,7 +7,8 @@
 * NLTK
 * scikit learn
 
-
+## Instructions
+1. Download the dataset [newsir16](http://research.signalmedia.co/newsir16/signal-dataset.html)
 ## Features 
 - [x] preprocessing 
 - [x] tfidf 
